@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root"; // DB username ඔබට වෙනස් කරන්න
-$password = "";     // DB password ඔබට වෙනස් කරන්න
+$username = "if0_39624347"; // DB username ඔබට වෙනස් කරන්න
+$password = "NIMSARA2009";     // DB password ඔබට වෙනස් කරන්න
 $dbname = "kmv_school";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
